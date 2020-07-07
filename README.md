@@ -1,7 +1,7 @@
-# #Flights
-AnEntry into tidyverse package, complete implementation of "Dplyr" package.
-FlFlights dataset can be called inside the R world itself through the nycflights13 package itself, which we have done here.
-WeWe have covered all the fucntionalities of the dplyr package one by one :
+##Flights
+An Entry into tidyverse package, complete implementation of "Dplyr" package.
+Flights dataset can be called inside the R world itself through the nycflights13 package itself, which we have done here.
+We have covered all the fucntionalities of the dplyr package one by one :
     a)Flights commit has the code and little bit of explanations of functions for all the types.
     b)Assignment files has the snaps of the outputs in a sequence.
         i)Assignment 2 contains the filter function. (It's used to get the subset dataset from a dataframe.)
